@@ -1,5 +1,32 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+}
+
+* {
+    font-family: 'Proxima Nova';
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('./assets/fonts/proxima-nova-regular.eot');
+    src: url('./assets/fonts/proxima-nova-regular.woff2') format('woff2'),
+         url('./assets/fonts/proxima-nova-regular.woff') format('woff'),
+         url('./assets/fonts/proxima-nova-regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Proxima Nova Bold';
+    src: url('./assets/fonts/proxima-nova-bold.eot');
+    src: url('./assets/fonts/proxima-nova-bold.woff2') format('woff2'),
+         url('./assets/fonts/proxima-nova-bold.woff') format('woff'),
+         url('./assets/fonts/proxima-nova-bold.ttf') format('truetype');
 }
