@@ -1,5 +1,6 @@
 {
   "name": "react-travel-app",
+  "homepage" : "https://www.jessecarmine.com/demos/react-travel-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
