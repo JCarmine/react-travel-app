@@ -1,0 +1,210 @@
+[
+   {
+      "wcityid":"NHV",
+      "latLng":{
+         "lat": 41.308274,
+         "lng": -72.9278835
+      },
+      "text":"New Haven, CT"
+   },
+   {
+      "wcityid":"HFD",
+      "latLng":{
+         "lat": 41.76371109999999,
+         "lng": -72.6850932
+      },
+      "text":"Hartford, CT"
+   },
+   {
+      "wcityid":"NYC",
+      "latLng":{
+         "lat": 40.7127837,
+         "lng": -74.0059413
+      },
+      "text":"New York, NY"
+   },
+   {
+      "wcityid":"POR",
+      "latLng":{
+         "lat": 43.66147100000001,
+         "lng": -70.2553259
+      },
+      "text":"Portland, ME"
+   },
+   {
+      "wcityid":"PHL",
+      "latLng":{
+         "lat": 39.9525839,
+         "lng": -75.1652215
+      },
+      "text":"Philadelphia, PA"
+   },
+   {
+      "wcityid":"DCA",
+      "latLng":{
+         "lat": 38.9071923,
+         "lng": -77.0368707
+      },
+      "text":"Washington, DC"
+   },
+   {
+      "wcityid":"NWK",
+      "latLng":{
+         "lat": 40.735657,
+         "lng": -74.1723667
+      },
+      "text":"Newark, NJ"
+   },
+   {
+      "wcityid":"PVD",
+      "latLng":{
+         "lat": 41.8239891,
+         "lng": -71.4128343
+      },
+      "text":"Providence, RI"
+   },
+   {
+      "wcityid":"SPG",
+      "latLng":{
+         "lat": 42.1014831,
+         "lng": -72.589811
+      },
+      "text":"Springfield, MA"
+   },
+   {
+      "wcityid":"ALB",
+      "latLng":{
+         "lat": 42.6525793,
+         "lng": -73.7562317
+      },
+      "text":"Albany, NY"
+   },
+   {
+      "wcityid":"CAMTL",
+      "latLng":{
+         "lat": 45.5016889,
+         "lng": -73.567256
+      },
+      "text":"Montreal, QC"
+   },
+   {
+      "wcityid":"BTV",
+      "latLng":{
+         "lat": 44.4758825,
+         "lng": -73.21207199999999
+      },
+      "text":"Burlington, VT"
+   },
+   {
+      "wcityid":"BOS",
+      "latLng":{
+         "lat": 42.3600825,
+         "lng": -71.0588801
+      },
+      "text":"Boston, MA"
+   },
+   {
+      "wcityid":"BAL",
+      "latLng":{
+         "lat": 39.2903848,
+         "lng": -76.6121893
+      },
+      "text":"Baltimore, MD"
+   },
+   {
+      "wcityid":"SVS",
+      "latLng":{
+         "lat": 38.99066570000001,
+         "lng": -77.026088
+      },
+      "text":"Silver Spring, MD"
+   },
+   {
+      "wcityid":"BIN",
+      "latLng":{
+         "lat": 42.09868669999999,
+         "lng": -75.91797380000001
+      },
+      "text":"Binghamton, NY"
+   },
+   {
+      "wcityid":"SYR",
+      "latLng":{
+         "lat": 43.04812210000001,
+         "lng": -76.14742439999999
+      },
+      "text":"Syracuse, NY"
+   },
+   {
+      "wcityid":"PGH",
+      "latLng":{
+         "lat": 40.44062479999999,
+         "lng": -79.9958864
+      },
+      "text":"Pittsburgh, PA"
+   },
+   {
+      "wcityid":"HAR",
+      "latLng":{
+         "lat": 40.27319109999999,
+         "lng": -76.8867008
+      },
+      "text":"Harrisburg, PA"
+   },
+   {
+      "wcityid":"LNC",
+      "latLng":{
+         "lat": 40.0378755,
+         "lng": -76.3055144
+      },
+      "text":"Lancaster, PA"
+   },
+   {
+      "wcityid":"RIC",
+      "latLng":{
+         "lat": 37.5407246,
+         "lng": -77.4360481
+      },
+      "text":"Richmond, VA"
+   },
+   {
+      "wcityid":"NBK",
+      "latLng":{
+         "lat": 40.4862157,
+         "lng": -74.4518188
+      },
+      "text":"New Brunswick, NJ"
+   },
+   {
+      "wcityid":"CVS",
+      "latLng":{
+         "lat": 38.0293059,
+         "lng": -78.47667810000002
+      },
+      "text":"Charlottesville, VA"
+   },
+   {
+      "wcityid":"NFK",
+      "latLng":{
+         "lat": 36.8507689,
+         "lng": -76.28587259999999
+      },
+      "text":"Norfolk, VA"
+   },
+   {
+      "wcityid":"DNC",
+      "latLng":{
+         "lat": 35.9940329,
+         "lng": -78.898619
+      },
+      "text":"Durham, NC"
+   },
+   {
+      "wcityid":"CLT",
+      "latLng":{
+         "lat": 35.2270869,
+         "lng": -80.8431267
+      },
+      "text":"Charlotte, NC"
+   }
+]
