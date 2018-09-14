@@ -1,5 +1,5 @@
 # React Travel App
-This repo demonstrates how to build a travel app search page using React.
+This repo demonstrates the creation of a travel app search page using React.
 
 ## Features
 * Semantic HTML5 markup that supports screen readers and keyboard navigation
