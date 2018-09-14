@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <main className="App">
           <section>
-              <img alt='winking chiku' src={chikuWink} />
+              <img alt='winking chiku' src={chikuWink} width='117' height='117' />
               <SearchForm/>
           </section>
       </main>
